@@ -1,0 +1,25 @@
+{
+  "name": "bump-bot",
+  "version": "1.0.0",
+  "description": "Pump.fun Bump Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pumpfun",
+    "pump.fun",
+    "bump",
+    "bump",
+    "bot",
+    "solana",
+    "meme"
+  ],
+  "author": "Allen",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.9",
+    "@solana/web3.js": "^1.95.5",
+    "dotenv": "^16.4.5"
+  }
+}
