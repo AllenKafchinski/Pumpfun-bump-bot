@@ -126,15 +126,6 @@ solana-pumpfun-bot/
 
 ---
 
-## Future Enhancements
-
-- **Advanced Logging**: Add logging for transaction history and error reports.
-- **Analytics Dashboard**: Integrate with a dashboard for monitoring trading performance.
-- **DEX Integration**: Add support for trading via decentralized exchanges like Serum or Jupiter.
-- **Telegram Alerts**: Notify users when certain conditions are met (e.g., low SOL balance).
-
----
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes.
