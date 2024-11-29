@@ -1,7 +1,5 @@
 require('dotenv').config();
-
 const solanaWeb3 = require("@solana/web3.js");
-const splToken = require("@solana/spl-token");
 
 const privateKey = process.env.PRIVATE_KEY;
 if (!privateKey) {
