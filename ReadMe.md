@@ -139,6 +139,9 @@ solana-pumpfun-bot/
 
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes.
 
+Tips are appreciated! 
+Solana wallet: H4H8giY5sZ31gL7bEEYVt3L4oumvQqjvGWUMqivY4Vmo
+
 ---
 
 ## License
