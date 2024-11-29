@@ -30,8 +30,8 @@ This is a modular Solana Bump bot designed to interact directly with a bonding c
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/solana-pumpfun-bot.git
-cd solana-pumpfun-bot
+https://github.com/AllenKafchinski/Pumpfun-bump-bot.git
+cd Pumpfun-bump-bot
 ```
 
 ### 2. Install Dependencies
@@ -73,7 +73,7 @@ Replace `<YOUR_BONDING_CURVE_PROGRAM_ID>` and `<YOUR_TOKEN_MINT_ADDRESS>` with t
 
 To start the bot:
 ```bash
-node index.js
+node bot.js
 ```
 
 The bot will run indefinitely until manually stopped or the SOL balance threshold is reached.
@@ -84,7 +84,7 @@ The bot will run indefinitely until manually stopped or the SOL balance threshol
 
 ```plaintext
 solana-pumpfun-bot/
-├── index.js           # Main bot logic
+├── bot.js             # Main bot logic
 ├── package.json       # Project metadata and dependencies
 ├── .env               # Environment variables (not included in the repository)
 ├── .gitignore         # Prevents sensitive files from being committed
